@@ -33,4 +33,9 @@
             <url>http://oss.sonatype.org/content/repositories/google-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
+    <scm>
+        <connection>scm:svn:http://google-maven-repository.googlecode.com/svn/trunk/</connection>
+        <developerConnection>scm:svn:https://google-maven-repository.googlecode.com/svn/trunk/</developerConnection>
+        <url>http://code.google.com/p/google-maven-repository/source/browse/</url>
+    </scm>
 </project>
