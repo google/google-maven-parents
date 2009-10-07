@@ -23,7 +23,7 @@
         <repository>
             <id>google-releases</id>
             <name>Google Maven Repository</name>
-            <url>http://oss.sonatype.org/content/repositories/google-releases/</url>
+            <url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
         <snapshotRepository>
             <id>google-snapshots</id>
